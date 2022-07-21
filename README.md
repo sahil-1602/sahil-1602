@@ -1,6 +1,6 @@
 <h4> Hey there! <img src="./gifs/wave.gif" width="30px"></h4>
 
-I'm [Sahil Darji](https://sahil-1602.github.io/portfolio/), a full stack web developer with over 2 years of frontend and backend experience and passion for responsive, intuitive and dynamic user experience.
+I'm [Sahil Darji](https://sahildarji.me/), a full stack web developer with over 2 years of frontend and backend experience and passion for responsive, intuitive and dynamic user experience.
 
  ---
  
@@ -31,7 +31,7 @@ I'm [Sahil Darji](https://sahil-1602.github.io/portfolio/), a full stack web dev
 <p align="center">
   <i>Let's connect and chat!</i>
   
-   [![Website Badge](https://img.shields.io/badge/-sahildarji.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sahil-1602.github.io/portfolio/)](https://sahil-1602.github.io/portfolio/) 
+   [![Website Badge](https://img.shields.io/badge/-sahildarji.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sahildarji.me/)](https://sahildarji.me/) 
    [![Linkedin Badge](https://img.shields.io/badge/-Sahil_Darji-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-darji-11ab3a1ab/)](https://www.linkedin.com/in/sahil-darji-11ab3a1ab/) 
    [![Instagram Badge](https://img.shields.io/badge/-@sahil_1602-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/sahil_1602/)](https://www.instagram.com/sahil_1602/)
    
