@@ -31,7 +31,7 @@ I'm [Sahil Darji](https://sahildarji.me/), a full stack web developer with over 
 <p align="center">
   <i>Let's connect and chat!</i>
   
-   [![Website Badge](https://img.shields.io/badge/-sahildarji.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sahildarji.me/)](https://sahildarji.me/) 
+   [![Website Badge](https://img.shields.io/badge/-sahildarji.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sahildarji.me/)](https://sahildarji.me/) 
    [![Linkedin Badge](https://img.shields.io/badge/-Sahil_Darji-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-darji-11ab3a1ab/)](https://www.linkedin.com/in/sahil-darji-11ab3a1ab/) 
    [![Instagram Badge](https://img.shields.io/badge/-@sahil_1602-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/sahil_1602/)](https://www.instagram.com/sahil_1602/)
    
